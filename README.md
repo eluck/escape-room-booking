@@ -1,6 +1,6 @@
 ## escape-room-booking
 
-**November 19, 16:30-17:30, The Missing Symphony room (6 people max)**
+**November 19, 17:30-18:30, The Missing Symphony room (6 people max)**
 
 - Yulya
 - Denis S.
@@ -8,10 +8,6 @@
 - Denis B.
 - Harrison
 - Matt D.
-
-
-**November 19, 17:30-18:30, The Missing Symphony room (6 people max)**
-
 
 
 **November 19, 16:00-17:00, Excalibur room (5 people max)**
