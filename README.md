@@ -6,7 +6,6 @@
 - Denis S.
 - Denis G.
 - Denis B.
-- Harrison
 - Matt D.
 
 
